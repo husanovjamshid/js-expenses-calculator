@@ -14,7 +14,7 @@ var allTotal = totalUsd + totalEuro
 
 
 if (userMoney >= allTotal) {
-    title.textContent = `Oq yo'l hurmatli ${userName} Sayohatingiz maroqli o'tsin!!!`
+    title.textContent = `Oq yo'l hurmatli ${userName} sayohatingiz maroqli o'tsin!!!`
 }else {
-    title.textContent = `Hurmatli ${userName} Sayohatingiz uchun mablag' yetarli emas ):`
+    title.textContent = `Hurmatli ${userName} sayohatingiz uchun mablag' yetarli emas ):`
 }
